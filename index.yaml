@@ -3,11 +3,11 @@ entries:
   botkube:
   - apiVersion: v1
     appVersion: v9.99.9-dev
-    created: "2020-05-14T07:51:16.323824681Z"
+    created: "2020-06-01T19:55:54.231318715Z"
     description: Controller for the BotKube Slack app which helps you monitor your
       Kubernetes cluster, debug deployments and run specific checks on resources in
       the cluster.
-    digest: d6bf61183b046f80cbc543ce4ee88ca140c5861c56197494e6812a3e3b999fa8
+    digest: db9dd1c0e3755e34e6e2b6896dc390f9b4c5c759dea3f1af2dbafd38defc5be5
     home: https://www.botkube.io
     icon: https://www.botkube.io/images/botkube.ico
     keywords:
@@ -28,11 +28,11 @@ entries:
     sources:
     - https://github.com/infracloudio/botkube
     urls:
-    - https://infracloudio.github.io/charts/botkube-v9.99.9-dev.tgz
+    - https://baba230896.github.io/charts-1/botkube-v9.99.9-dev.tgz
     version: v9.99.9-dev
   - apiVersion: v1
     appVersion: v0.10.0
-    created: "2020-05-14T07:51:16.321415276Z"
+    created: "2020-06-01T19:55:54.227900439Z"
     description: Controller for the BotKube Slack app which helps you monitor your
       Kubernetes cluster, debug deployments and run specific checks on resources in
       the cluster.
@@ -57,11 +57,11 @@ entries:
     sources:
     - https://github.com/infracloudio/botkube
     urls:
-    - https://infracloudio.github.io/charts/botkube-v0.10.0.tgz
+    - https://baba230896.github.io/charts-1/botkube-v0.10.0.tgz
     version: v0.10.0
   - apiVersion: v1
     appVersion: v0.9.1
-    created: "2020-05-14T07:51:16.32335858Z"
+    created: "2020-06-01T19:55:54.230578998Z"
     description: Controller for the BotKube Slack app which helps you monitor your
       Kubernetes cluster, debug deployments and run specific checks on resources in
       the cluster.
@@ -86,11 +86,11 @@ entries:
     sources:
     - https://github.com/infracloudio/botkube
     urls:
-    - https://infracloudio.github.io/charts/botkube-v0.9.1.tgz
+    - https://baba230896.github.io/charts-1/botkube-v0.9.1.tgz
     version: v0.9.1
   - apiVersion: v1
     appVersion: v0.9.0
-    created: "2020-05-14T07:51:16.322997479Z"
+    created: "2020-06-01T19:55:54.22973808Z"
     description: Controller for the BotKube Slack app which helps you monitor your
       Kubernetes cluster, debug deployments and run specific checks on resources in
       the cluster.
@@ -115,11 +115,11 @@ entries:
     sources:
     - https://github.com/infracloudio/botkube
     urls:
-    - https://infracloudio.github.io/charts/botkube-v0.9.0.tgz
+    - https://baba230896.github.io/charts-1/botkube-v0.9.0.tgz
     version: v0.9.0
   - apiVersion: v1
     appVersion: v0.8.0
-    created: "2020-05-14T07:51:16.322552878Z"
+    created: "2020-06-01T19:55:54.229267969Z"
     description: Controller for the BotKube Slack app which helps you monitor your
       Kubernetes cluster, debug deployments and run specific checks on resources in
       the cluster.
@@ -144,11 +144,11 @@ entries:
     sources:
     - https://github.com/infracloudio/botkube
     urls:
-    - https://infracloudio.github.io/charts/botkube-v0.8.0.tgz
+    - https://baba230896.github.io/charts-1/botkube-v0.8.0.tgz
     version: v0.8.0
   - apiVersion: v1
     appVersion: v0.7.0
-    created: "2020-05-14T07:51:16.322164177Z"
+    created: "2020-06-01T19:55:54.228819359Z"
     description: Controller for the BotKube Slack app which helps you monitor your
       Kubernetes cluster, debug deployments and run specific checks on resources in
       the cluster.
@@ -173,11 +173,11 @@ entries:
     sources:
     - https://github.com/infracloudio/botkube
     urls:
-    - https://infracloudio.github.io/charts/botkube-v0.7.0.tgz
+    - https://baba230896.github.io/charts-1/botkube-v0.7.0.tgz
     version: v0.7.0
   - apiVersion: v1
     appVersion: v0.6.0
-    created: "2020-05-14T07:51:16.321800877Z"
+    created: "2020-06-01T19:55:54.228320948Z"
     description: Controller for the BotKube Slack app which helps you monitor your
       Kubernetes cluster, debug deployments and run specific checks on resources in
       the cluster.
@@ -202,6 +202,6 @@ entries:
     sources:
     - https://github.com/infracloudio/botkube
     urls:
-    - https://infracloudio.github.io/charts/botkube-v0.6.0.tgz
+    - https://baba230896.github.io/charts-1/botkube-v0.6.0.tgz
     version: v0.6.0
-generated: "2020-05-14T07:51:16.320768975Z"
+generated: "2020-06-01T19:55:54.227110221Z"
